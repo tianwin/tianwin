@@ -20,7 +20,7 @@ Welcome to my personal portfolio! Here you'll find links to my social profiles, 
 - Enjoying life and continuous learning.
 
 ## About Me
-![Frank's Portrait](./images/67558253.png)  
+![Frank's Portrait](./67558253.png)  
 **Frank Dong** - A highly analytical and process-oriented data scientist with an extensive background in mathematics and data science. I aim to leverage my experience in predictive modeling and data analysis to contribute to innovative data science projects.
 
 ## Experience
