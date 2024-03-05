@@ -28,4 +28,4 @@ Welcome to my personal portfolio! Here you'll find links to my social profiles, 
 - **2023 - 2024:** M.S in Data Science and Analytics (DSAN) from Georgetown University.
 
 Resume
-For a detailed look at my professional background and skills, please view my [resume](./'Frank Dong.pdf').
+For a detailed look at my professional background and skills, please view my [resume](./Frank Dong.pdf).
