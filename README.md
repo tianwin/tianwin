@@ -27,4 +27,5 @@ Welcome to my personal portfolio! Here you'll find links to my social profiles, 
 - **2019 - 2023:** B.S in Mathematics and Data Science from UC Irvine.
 - **2023 - 2024:** M.S in Data Science and Analytics (DSAN) from Georgetown University.
 
-Feel free to explore my work, and if you like what you see, don't hesitate to reach out or leave a star on my [GitHub Project](https://github.com/tianwin/web).
+Resume
+For a detailed look at my professional background and skills, please view my [resume](./'Frank Dong').
